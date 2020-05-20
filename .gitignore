@@ -4,3 +4,8 @@ elm-stuff
 repl-temp-*
 
 node_modules
+node_modules/
+
+a.txt
+
+yarn.lock
